@@ -1,8 +1,8 @@
 # vim8-debian
-If you are running debian-8 then run vim-initiate.sh
+Installation steps of vim8 on debian-8(stable)
 
 ### steps to install and compile packages
 - vim-initiate.sh 	( Upgrade vim7 to vim8 and compile with python2/3 )
-- install-vundle.sh
-- install-font.sh
+- install-vundle.sh ( package installation )
+- install-font.sh   ( install mac's font )
 - you-complete-me-compile.sh ( If you want auto-complete for all language )
