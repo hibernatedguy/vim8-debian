@@ -15,6 +15,7 @@ Plugin 'VundleVim/Vundle.vim'
 Plugin 'tpope/vim-fugitive'
 "filesystem
 Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/nerdcommenter'
 Plugin 'jistr/vim-nerdtree-tabs'
 Plugin 'kien/ctrlp.vim' 
 
@@ -27,7 +28,7 @@ Plugin 'nelstrom/vim-markdown-preview'
 
 "python sytax checker
 Plugin 'nvie/vim-flake8'
-Plugin 'vim-scripts/Pydiction'
+"Plugin 'vim-scripts/Pydiction'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'scrooloose/syntastic'
 
