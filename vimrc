@@ -34,7 +34,11 @@ Plugin 'scrooloose/syntastic'
 
 "auto-completion stuff
 "Plugin 'klen/python-mode'
+
+" If want autocomplete for python
+"Plugin 'python.vim'
 Plugin 'Valloric/YouCompleteMe'
+
 Plugin 'klen/rope-vim'
 "Plugin 'davidhalter/jedi-vim'
 Plugin 'ervandew/supertab'
