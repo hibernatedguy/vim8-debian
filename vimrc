@@ -11,6 +11,7 @@ call vundle#begin()
 
 " ---------------- PLUGINS --------------------
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'python.vim'
 "git interface
 Plugin 'tpope/vim-fugitive'
 "filesystem
@@ -27,18 +28,14 @@ Plugin 'suan/vim-instant-markdown'
 Plugin 'nelstrom/vim-markdown-preview'
 
 "python sytax checker
-Plugin 'nvie/vim-flake8'
+" Plugin 'nvie/vim-flake8'
 "Plugin 'vim-scripts/Pydiction'
 Plugin 'vim-scripts/indentpython.vim'
 Plugin 'scrooloose/syntastic'
 
 "auto-completion stuff
 "Plugin 'klen/python-mode'
-
-" If want autocomplete for python
-"Plugin 'python.vim'
-Plugin 'Valloric/YouCompleteMe'
-
+"Plugin 'Valloric/YouCompleteMe'
 Plugin 'klen/rope-vim'
 "Plugin 'davidhalter/jedi-vim'
 Plugin 'ervandew/supertab'
@@ -59,7 +56,7 @@ call vundle#end()
 
 
 " ----------------- FLAKE8 SETTINGS --------------------
-autocmd BufWritePost *.py call Flake8()
+" autocmd BufWritePost *.py call Flake8()
 
 
 " ----------------- SIMPLY FOLD --------------------------
@@ -92,8 +89,8 @@ set nu
 set t_Co=256
 " color wombat256mod
 " color dracula
-color zenburn
-" color wombat256mod
+" color zenburn
+color wombat256mod
 
 " ------------- SHOW LINE NUMBERS AND LENGTH -------------
 set number  " show line numbers
