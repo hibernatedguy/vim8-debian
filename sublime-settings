@@ -1,0 +1,37 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 1,
+	"caret_style": "blink",
+	"color_scheme": "Packages/Inspired GitHub Color Scheme/InspiredGitHub.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Soda Light 3.sublime-theme",
+  "font_size": 12.2,
+  "font_face": "Courier",
+  "font_options": ["subpixel_antialias"],
+  "line_padding_bottom": 1,
+  "line_padding_top": 1
+}
