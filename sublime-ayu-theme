@@ -44,3 +44,11 @@
 	"ui_separator": true,
 	"ui_wide_scrollbars": true
 }
+
+
+# anaconda setup
+{
+	"pep8_max_line_length": 120,
+	"swallow_startup_errors": true,
+	"python_interpreter": "/Users/codetarsier/.virtualenvs/o3-api/bin/python"
+}
