@@ -52,3 +52,16 @@
 	"swallow_startup_errors": true,
 	"python_interpreter": "/Users/codetarsier/.virtualenvs/o3-api/bin/python"
 }
+
+# fileicon
+{
+	// The opacity level of the default icon state.
+	"opacity": 0.75,
+
+	// The opacity level of the hovered icon state.
+	"opacity_on_hover": 0.5,
+
+	// The opacity level of the selected icon state.
+	"opacity_on_select": 1.0,
+}
+
