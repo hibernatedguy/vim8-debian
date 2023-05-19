@@ -1,0 +1,19 @@
+{
+	"rulers": [80, 100, 120],
+	"font_face": "Fira Code",
+	"font_options": ["antialias"],
+	"theme_font_options": [ "gray_antialias"],
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "GitHub Dimmed.sublime-theme",
+	"color_scheme": "Packages/GitHub Theme/schemes/GitHub Dimmed.sublime-color-scheme",
+	"font_size": 12,
+	"show_full_path": true,
+	"detect_indentation": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"draw_white_space": "all",
+    /*"draw_white_space": "all"*/
+}
